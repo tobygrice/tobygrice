@@ -34,4 +34,4 @@ I’m a recent Computer Science graduate specialising in distributed systems, ne
 - Write software that is explainable, testable, and robust
 - Treat performance and correctness as first-class concerns
 
-> I’m fascinated by how theoretical concepts become real, production-grade software. I’m not interested in copy-pasting solutions - most of my projects exist because I wanted to truly understand how something works.
+I’m fascinated by how theoretical concepts become real, production-grade software. I’m not interested in copy-pasting solutions - most of my projects exist because I wanted to truly understand how something works.
