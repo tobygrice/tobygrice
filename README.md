@@ -1,8 +1,6 @@
 ## Hi! My name is Toby.
 
-I’m a recent Computer Science graduate specialising in distributed systems, networking, and low-level systems programming. I enjoy building things from first principles, understanding how they work at every level, and writing code with a focus on correctness, performance, and clarity.
-
-Most of my projects sit somewhere between systems engineering, applied cryptography, and infrastructure. I’m particularly interested in how theoretical ideas translate into real, production-grade software.
+I’m a recent Computer Science graduate specialising in distributed systems, networking, and low-level systems programming. I enjoy building things from the ground up, understanding how they work at every level, and implementing them focus on correctness, performance, and clarity.
 
 ### What I work on
 
@@ -25,11 +23,9 @@ Most of my projects sit somewhere between systems engineering, applied cryptogra
 
 ### Technologies I use
 
-**Languages**: Rust, C++, Java, Python
-
-**Systems & tooling**: Linux, Docker, Git, Make/CMake, Maven
-
-**Domains**: Cryptography, distributed systems, emulation, networking, performance optimisation
+- **Languages**: Rust, C++, Java, Python
+- **Systems & tooling**: Linux, Docker, Git, Make/CMake, Maven, TrueNAS
+- **Domains**: Cryptography, distributed systems, emulation, networking, performance optimisation
 
 ### How I approach projects
 
@@ -38,4 +34,6 @@ Most of my projects sit somewhere between systems engineering, applied cryptogra
 - Write software that is explainable, testable, and robust
 - Treat performance and correctness as first-class concerns
 
-I’m not interested in copy-pasting solutions or building shallow demos. Most of my projects exist because I wanted to truly understand how something works.
+---
+
+I’m fascinated by how theoretical concepts become real, production-grade software. I’m not interested in copy-pasting solutions - my projects exist because I wanted to truly understand how something works.
