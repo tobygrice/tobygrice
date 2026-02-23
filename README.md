@@ -1,4 +1,4 @@
-## Hi! My name is Toby.
+## Hello! My name is Toby.
 
 I’m a recent Computer Science graduate specialising in distributed systems, networking, and low-level systems programming. I enjoy building things from the ground up, understanding how they work at every level, and implementing them with a focus on correctness, performance, and clarity.
 
