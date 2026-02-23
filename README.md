@@ -1,16 +1,41 @@
-## Hi there 👋
+## Hi! My name is Toby.
 
-<!--
-**tobygrice/tobygrice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a recent Computer Science graduate specialising in distributed systems, networking, and low-level systems programming. I enjoy building things from first principles, understanding how they work at every level, and writing code with a focus on correctness, performance, and clarity.
 
-Here are some ideas to get you started:
+Most of my projects sit somewhere between systems engineering, applied cryptography, and infrastructure. I’m particularly interested in how theoretical ideas translate into real, production-grade software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work on
+
+**Cryptography & security**
+- Implemented a Rust AES library from scratch (ECB, CTR, GCM) with test vectors, feature-gating, and a CLI tool for demonstration
+- Focused on correctness, standards compliance (NIST), and performance trade-offs
+- Strong interest in applied cryptography rather than black-box usage
+
+**Systems & low-level programming**
+- Built a cycle-accurate NES emulator in C++ with a multi-threaded CPU/PPU design
+- Comfortable reasoning about memory, concurrency, and hardware constraints
+
+**Distributed systems & networking**
+- Implemented Paxos as a reusable Java library to understand consensus beyond theory
+- Interested in real-world distributed system design
+
+**Infrastructure & self-hosting**
+- Maintain personal servers and self-hosted services (Docker, ZFS, networking, DNS, TrueNAS)
+- Strong preference for understanding infrastructure rather than abstracting it away
+
+### Technologies I use
+
+**Languages**: Rust, C++, Java, Python
+
+**Systems & tooling**: Linux, Docker, Git, Make/CMake, Maven
+
+**Domains**: Cryptography, distributed systems, emulation, networking, performance optimisation
+
+### How I approach projects
+
+- Understand the underlying model before writing code
+- Read specifications and standards, not just tutorials
+- Write software that is explainable, testable, and robust
+- Treat performance and correctness as first-class concerns
+
+I’m not interested in copy-pasting solutions or building shallow demos. Most of my projects exist because I wanted to truly understand how something works.
