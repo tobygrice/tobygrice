@@ -1,20 +1,20 @@
 ## Hi! My name is Toby.
 
-I’m a recent Computer Science graduate specialising in distributed systems, networking, and low-level systems programming. I enjoy building things from the ground up, understanding how they work at every level, and implementing them focus on correctness, performance, and clarity.
+I’m a recent Computer Science graduate specialising in distributed systems, networking, and low-level systems programming. I enjoy building things from the ground up, understanding how they work at every level, and implementing them with a focus on correctness, performance, and clarity.
 
 ### What I work on
 
 **Cryptography & security**
 - Implemented a Rust AES library from scratch (ECB, CTR, GCM) with test vectors, feature-gating, and a CLI tool for demonstration
 - Focused on correctness, standards compliance (NIST), and performance trade-offs
-- Strong interest in applied cryptography rather than black-box usage
+- Strong interest in applied cryptography rather than black-box abstractions
 
 **Systems & low-level programming**
-- Built a cycle-accurate NES emulator in C++ with a multi-threaded CPU/PPU design
+- Built a cycle-accurate NES emulator in C++ with a multi-threaded CPU/PPU architecture
 - Comfortable reasoning about memory, concurrency, and hardware constraints
 
 **Distributed systems & networking**
-- Implemented Paxos as a reusable Java library to understand consensus beyond theory
+- Implemented Paxos as a reusable Java library to move beyond theoretical understanding of consensus
 - Interested in real-world distributed system design
 
 **Infrastructure & self-hosting**
